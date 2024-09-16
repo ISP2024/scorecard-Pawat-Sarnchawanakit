@@ -6,6 +6,7 @@ db.sqlite3
 # Virtualenv is recreated as needed. Don't commit.
 venv/
 env/
+.venv/
 
 # code coverage
 .coverage
